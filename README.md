@@ -1,3 +1,6 @@
+https://syncfusion-react-components-dashboard.netlify.app/
+
+
 create-react-app
 
 delete src folder
